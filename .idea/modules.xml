@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Creational/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/Creational/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Composite/Composite.iml" filepath="$PROJECT_DIR$/Structural/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioural/IteratorPatternDemo/IteratorPatternDemo.iml" filepath="$PROJECT_DIR$/Behavioural/IteratorPatternDemo/IteratorPatternDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioural/Mediator/Mediator.iml" filepath="$PROJECT_DIR$/Behavioural/Mediator/Mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/PrototypePatternDemo/PrototypePatternDemo.iml" filepath="$PROJECT_DIR$/Creational/PrototypePatternDemo/PrototypePatternDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/ProxyPatternDemo/ProxyPatternDemo.iml" filepath="$PROJECT_DIR$/Structural/ProxyPatternDemo/ProxyPatternDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tugas-Besar-CCDP-10116073-10116076.iml" filepath="$PROJECT_DIR$/.idea/Tugas-Besar-CCDP-10116073-10116076.iml" />
+    </modules>
+  </component>
+</project>

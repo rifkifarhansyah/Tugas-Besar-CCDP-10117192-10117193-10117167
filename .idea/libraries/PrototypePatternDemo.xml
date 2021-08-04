@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PrototypePatternDemo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Creational/PrototypePatternDemo/dist/PrototypePatternDemo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
